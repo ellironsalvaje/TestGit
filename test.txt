@@ -7,4 +7,5 @@ this is my first text file
 this is my first text file
 
 second change
-third change inside the test.txt file
+third sort of change inside the test.txt file
+fourth change
